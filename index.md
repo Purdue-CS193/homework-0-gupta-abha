@@ -1,4 +1,11 @@
 # Abha Gupta's First CS193 Homework
+
+## Favorite things about CS193
+- I like the **lecture hall** we are in because it is so open.
+- I like that the presentations are **posted on brightspace** so I can try the instructions out later too.
+- I like that the class is **taught by students** who had experienced the same things we had their freshmen year.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
